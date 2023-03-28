@@ -1,4 +1,4 @@
-### Aloha! I'm <span style="color:purple">Augusto Kalahary</span>, AKA Kawzzy, 21y.
+### Aloha! I'm Augusto Kalahary, AKA Kawzzy, 21y.
 
 ##
 
