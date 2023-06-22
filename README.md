@@ -33,7 +33,7 @@
     </a>
   </p>
 </p>
-
+<br />
 <p align="center">
   <h4 align="center">Studying:</h4>
   <p align="center">
@@ -61,6 +61,8 @@
   </p>
 </p>
 
+##
+
 <p align="center">
   <a href="https://github.com/Kawzzy">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kawzzy&theme=transparent" />
@@ -68,8 +70,15 @@
   <a href="https://github.com/Kawzzy">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawzzy&hide_border=true&card_width=338&theme=transparent" />
   </a>
+  <img height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawzzy&layout=compact&langs_count=16&theme=cobalt" />
   <a href="https://github.com/Kawzzy">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kawzzy&theme=transparent" />
   </a>
-  <img height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawzzy&layout=compact&langs_count=16&theme=tokyonight" />
 </p>
+
+##
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kawzzy&label=Profile%20views&color=0e75b6&style=flat" alt="kawzzy" />
+</p>
+<hr />
