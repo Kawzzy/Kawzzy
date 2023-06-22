@@ -14,7 +14,7 @@
 
 <p align="center">
   <h3 align="center">Languages and Tools:</h3>
-  <h4 align="center">Currently working with:</h4>
+  <h4 align="center">Working with:</h4>
   <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -70,10 +70,10 @@
   <a href="https://github.com/Kawzzy">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawzzy&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <img height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawzzy&layout=compact&langs_count=16&theme=cobalt" />
   <a href="https://github.com/Kawzzy">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kawzzy&theme=transparent" />
   </a>
+  <img height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawzzy&layout=compact&langs_count=16&theme=cobalt" />
 </p>
 
 ##
@@ -81,4 +81,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kawzzy&label=Profile%20views&color=0e75b6&style=flat" alt="kawzzy" />
 </p>
-<hr />
