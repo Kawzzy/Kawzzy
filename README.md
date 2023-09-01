@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽 I'm Augusto Kalahary</h1>
+<h1 align="center">Heya 👋🏽 I'm Augusto Kalahary</h1>
 <h3 align="center">Currently learning Full Stack Web Development (JavaScript ecosystem)</h3>
 
 <p align="center">
