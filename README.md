@@ -34,11 +34,11 @@
 <!--   <a href="https://github.com/Kawzzy">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kawzzy&theme=transparent" />
   </a> -->
-  <a href="https://github.com/Kawzzy">
+  <a href="[](https://github.com/Kawzzy)">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawzzy&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/Kawzzy">
+<!--   <a href="https://github.com/Kawzzy">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kawzzy&theme=transparent" />
-  </a>
-  <img height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawzzy&layout=compact&langs_count=16&theme=cobalt" />
+  </a> -->
+  <img height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawzzy&layout=compact&langs_count=16&theme=shadow_blue" />
 </div>
