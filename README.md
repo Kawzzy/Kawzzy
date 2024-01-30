@@ -4,16 +4,12 @@
 
 <h3 align="center">A software developer from Brazil 🇧🇷 <br><br> Currently learning Full Stack Web Development (JavaScript ecosystem) 🎯</h3>
 
-<div align="center" style="display: flex; justify-content: space-between;">
-  <div>
-    <a href="[gmail](mailto:AuuKalaharyKW@gmail.com)">
-      <img src="https://skillicons.dev/icons?i=gmail" width="35px"/> <!-- <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
-    </a>
-    &nbsp;&nbsp;
-    <a href="[linkedin](https://www.linkedin.com/in/augustokalahary)" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="35px"/><!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> -->
-    </a>
-  </div>
+<div align="center">
+    
+   [<img src="https://skillicons.dev/icons?i=gmail" width="35px"/>](mailto:AuuKalaharyKW@gmail.com)
+   &nbsp;&nbsp;
+   [<img src="https://skillicons.dev/icons?i=linkedin" width="35px"/>](https://www.linkedin.com/in/augustokalahary/)
+
 </div>
 
 <hr/>
